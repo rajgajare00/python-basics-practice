@@ -6,10 +6,11 @@ My python Learning journey with Apna College Prime 2.0
 ## Goal
 Learning AI/ML from Scratch and Targeting Internship 
 
-# Tools used
+## Tools used
 -Python 3
 -Vs code
--Jypiter 
+-Jypyter Notebook
 
 ## Topics covered
 1. Day-1 : python function and calculator
+2. Day-2 : WAF to calulate factorial of number
