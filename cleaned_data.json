@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Raj",
+        "age": 20,
+        "marks": 85,
+        "city": "Nagpur"
+    },
+    {
+        "name": "Amit",
+        "age": 21,
+        "marks": 92,
+        "city": "Mumbai"
+    },
+    {
+        "name": "Priya",
+        "age": 21,
+        "marks": 0,
+        "city": "Pune"
+    },
+    {
+        "name": "Riya",
+        "age": 22,
+        "marks": 95,
+        "city": "Unknown"
+    },
+    {
+        "name": "Sam",
+        "age": 20,
+        "marks": 78,
+        "city": "Delhi"
+    }
+]
